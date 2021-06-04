@@ -1,3 +1,4 @@
+// binary heaps
 class MaxBh {
   constructor() {
     this.value = [];
